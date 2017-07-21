@@ -1,0 +1,18 @@
+{
+  "name": "aws-node-example",
+  "version": "1.0.0",
+  "description": "Node JS app for the purpose of CD/CI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "aws",
+    "cd",
+    "ci",
+    "jenkins"
+  ],
+  "author": "Abhishek Bhandari",
+  "license": "ISC"
+}
